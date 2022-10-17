@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1024599510639",
+    "project_id": "bank-system-f37b1",
+    "storage_bucket": "bank-system-f37b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024599510639:android:9a8fabc7a87c71e7b8879a",
+        "android_client_info": {
+          "package_name": "com.example.bank_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024599510639-i6jm0fv0prdsoeqban5u195sfs33d9a5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWJrvOud_9Fr1zSYc_zaK6R--MR3EzIyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024599510639-i6jm0fv0prdsoeqban5u195sfs33d9a5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
